@@ -1,0 +1,22 @@
+{
+  "name": "gauge-report-merge",
+  "version": "0.0.1",
+  "description": "a cli utility to merge unique runs of gauge test results into a consolidated report",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getgauge-contrib/gauge-report-merge.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getgauge-contrib/gauge-report-merge/issues"
+  },
+  "homepage": "https://github.com/getgauge-contrib/gauge-report-merge#readme",
+  "dependencies": {
+    "protobufjs": "^7.1.0"
+  }
+}
